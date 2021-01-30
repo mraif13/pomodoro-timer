@@ -1,0 +1,22 @@
+{
+  "name": "timer",
+  "short_name": "timer",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#293241",
+  "description": "Just another time app.",
+  "theme_color": "#293241",
+  "icons": [
+    {
+      "src": "./img/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
