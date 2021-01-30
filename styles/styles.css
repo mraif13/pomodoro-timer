@@ -20,7 +20,7 @@
 .about-container #subtitle {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
-  color: #62d6fa;
+  color: #abc2f3;
   font-size: 50px;
 }
 .about-container .about-content {
@@ -70,7 +70,7 @@
 button.active-pl,
 button.active-sl,
 button.active-lb {
-  background-color: #6dcbe0;
+  background-color: #abc2f3;
   font-weight: 500;
 }
 *,
@@ -262,8 +262,8 @@ header button {
     font-size: 20px !important;
   }
   .opt-btn {
-    width: 90px !important;
-    height: 27.5px !important;
+    width: 80px !important;
+    height: 60.5px !important;
     font-size: 12px !important;
   }
 }
